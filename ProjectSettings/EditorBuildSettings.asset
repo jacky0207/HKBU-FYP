@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGameMenu.unity
+    guid: 2171679ab54884fe78f30085c0bbf543
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect.unity
+    guid: 3c74e252706434c6189572e33a3eac95
+  - enabled: 1
+    path: Assets/Scenes/1-1.unity
+    guid: a932f6430ac254eeea8907c6f82d511e
+  - enabled: 1
+    path: Assets/Scenes/1-2.unity
+    guid: 2ab2778b1c77b4fba9e64217b42661cc
+  - enabled: 1
+    path: Assets/Scenes/1-3.unity
+    guid: 8fa08b1438a5241cebe2d293633b0438
+  - enabled: 0
+    path: Assets/Scenes/midPointTest.unity
+    guid: f568d32e3fa095042a875a72cf8e7f79
